@@ -230,7 +230,7 @@ app.component("welcome-page", {
                 title: "Crear Reporte",
                 description: "Generar nuevo reporte",
                 icon: "mdi-file-plus",
-                href: "/reports/new",
+                href: "/Antidoping",
                 color: "info"
             },
             {

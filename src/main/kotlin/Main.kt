@@ -43,7 +43,7 @@ fun main() {
         config.router.mount{}.apiBuilder {
             get("/", VueComponent("welcome-page") )
             get ("/Antidoping", VueComponent("antidoping-page") )
-            get ("/Alcoh`olimetro", VueComponent("alcoholimetro-page"))
+            get ("/Alcoholimetro", VueComponent("alcoholimetro-page"))
 
 
 
